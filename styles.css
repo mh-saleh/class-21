@@ -1,0 +1,23 @@
+button {
+  padding: 15px 25px;
+  border: none;
+  border-radius: 25px;
+  background: tomato;
+}
+
+.box {
+  background-color: teal;
+  height: 500px;
+  width: 500px;
+  margin-top: 40px;
+}
+.boxTwo {
+  background-color: tomato;
+  height: 500px;
+  width: 500px;
+  margin-top: 40px;
+}
+
+.textBox {
+  margin-bottom: 40px;
+}
