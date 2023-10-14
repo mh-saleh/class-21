@@ -21,3 +21,7 @@ button {
 .textBox {
   margin-bottom: 40px;
 }
+
+h1 {
+  display: inline-block;
+}
